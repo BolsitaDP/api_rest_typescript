@@ -1,2 +1,5 @@
-node_modeules
+node_modules
+storage/*
+!storage/.gitkeep
 .env
+dist/
